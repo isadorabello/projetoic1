@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OldHelpNewWays</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notificacao_estado">Notificação</string>
+    <string name="aviso">Algo foi identificado, por favor, acesse o app!</string>
+</resources>

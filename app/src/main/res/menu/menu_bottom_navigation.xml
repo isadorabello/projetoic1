@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/inicio"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Início"/>
+    <item android:id="@+id/alertas"
+        android:icon="@drawable/ic_baseline_sms_failed_24"
+        android:title="Alertas"/>
+    <item android:id="@+id/Dados"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Perfil"/>
+</menu>
